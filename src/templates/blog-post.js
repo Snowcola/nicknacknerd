@@ -5,6 +5,7 @@ import Helmet from 'react-helmet'
 import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import Content, { HTMLContent } from '../components/Content'
+import SoundCloudEmbed from '../components/Soundcloud'
 
 export const BlogPostTemplate = ({
   content,
@@ -13,6 +14,7 @@ export const BlogPostTemplate = ({
   tags,
   title,
   helmet,
+  podcast,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -26,6 +28,8 @@ export const BlogPostTemplate = ({
               {title}
             </h1>
             <p>{description}</p>
+            <SoundCloudEmbed podcast={podcast} />
+
             <PostContent content={content} />
             {tags && tags.length ? (
               <div style={{ marginTop: `4rem` }}>
@@ -50,6 +54,7 @@ BlogPostTemplate.propTypes = {
   content: PropTypes.node.isRequired,
   contentComponent: PropTypes.func,
   description: PropTypes.string,
+  podcast: PropTypes.string,
   title: PropTypes.string,
   helmet: PropTypes.object,
 }
@@ -63,6 +68,7 @@ const BlogPost = ({ data }) => {
         content={post.html}
         contentComponent={HTMLContent}
         description={post.frontmatter.description}
+        podcast={post.frontmatter.podcast}
         helmet={
           <Helmet titleTemplate="%s | Blog">
             <title>{`${post.frontmatter.title}`}</title>
@@ -97,6 +103,7 @@ export const pageQuery = graphql`
         title
         description
         tags
+        podcast
       }
     }
   }
