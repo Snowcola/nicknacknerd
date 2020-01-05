@@ -22,7 +22,7 @@ const SoundCloudEmbed = ({ podcast }) => {
             </div>
         )
     }
-    return (<div><p>No podcast link available</p></div>)
+    return (<div></div>)
 }
 
 SoundCloudEmbed.propTypes = {
