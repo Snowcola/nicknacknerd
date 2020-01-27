@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: NickNackNerd
-image: /img/robot-2589090_1920.jpg
+image: /img/will-porada-dh5183gvkug-unsplash.jpg
 heading: Follow Us
 subheading: '"Stay a while and listen"'
 mainpitch:
