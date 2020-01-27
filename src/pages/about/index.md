@@ -1,19 +1,11 @@
 ---
 templateKey: about-page
-title: About our values
+title: About Us
 ---
-### Hobbies
+### Greg Burlet
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor velit non semper efficitur. Praesent pulvinar velit non imperdiet tincidunt. Donec ante neque, malesuada sollicitudin placerat in, sollicitudin eu mi. Nullam vel placerat nunc, rhoncus blandit velit. Donec non venenatis nulla. Donec pretium venenatis consequat. Pellentesque purus leo, sollicitudin nec luctus in, porttitor ut lectus. Etiam ornare ac 
+is a Computing and Data Scientist living on the West side of Canada. He did his BSc in Computing Science at the University of Alberta, a MA in Music Technology at McGill University, and an MSc in Computing Science at the University of Alberta. He works primarily in the field of AI and machine learning, running an audio company that specializes in transforming audio to sheet music using AI. On the side, Greg homebrews beer, writes songs on guitar, plays beach volleyball, and spends time with his fam.
 
-### Technology
+### Anthony "Anto" Keelan
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor velit non semper efficitur. Praesent pulvinar velit non imperdiet tincidunt. Donec ante neque, malesuada sollicitudin placerat in, sollicitudin eu mi. Nullam vel placerat nunc, rhoncus blandit velit. Donec non venenatis nulla. Donec pretium venenatis consequat. Pellentesque purus leo, sollicitudin nec luctus in, porttitor ut lectus. Etiam ornare ac 
-
-### Gaming
-
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor velit non semper efficitur. Praesent pulvinar velit non imperdiet tincidunt. Donec ante neque, malesuada sollicitudin placerat in, sollicitudin eu mi. Nullam vel placerat nunc, rhoncus blandit velit. Donec non venenatis nulla. Donec pretium venenatis consequat. Pellentesque purus leo, sollicitudin nec luctus in, porttitor ut lectus. Etiam ornare ac 
-
-### Learn with us
-
-lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent porttitor velit non semper efficitur. Praesent pulvinar velit non imperdiet tincidunt. Donec ante neque, malesuada sollicitudin placerat in, sollicitudin eu mi. Nullam vel placerat nunc, rhoncus blandit velit. Donec non venenatis nulla. Donec pretium venenatis consequat. Pellentesque purus leo, sollicitudin nec luctus in, porttitor ut lectus. Etiam ornare ac
+is a Materials Engineer also living on the West side of Canada. He did his BSc in Engineering at the University of Alberta and spends his days managing projects and slowly but surely bringing his company into the digital age. At night, Anto enjoys eating questionable day-old pizza, tinkering with new software/hardware projects, woodworking, playing video games, and spending time with his fam.
