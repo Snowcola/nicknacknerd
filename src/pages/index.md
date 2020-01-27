@@ -3,7 +3,7 @@ templateKey: index-page
 title: NickNackNerd
 image: /img/home-jumbotron.jpg
 heading: A Podcast about hobbies tech and more
-subheading: Support sustainable farming while enjoying a cup
+subheading: Stay while and listen
 mainpitch:
   title: Why NickNackNerd?
   description: >
