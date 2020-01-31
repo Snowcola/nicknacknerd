@@ -6,7 +6,7 @@ import nnnlogo from '../img/Logos/NickNackNerdLogo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 import twitter from '../img/social/twitter.svg'
-import patreon from '../img/social/twitter.svg'
+import patreon from '../img/social/patreon.svg'
 import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
