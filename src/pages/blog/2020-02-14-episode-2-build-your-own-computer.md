@@ -15,6 +15,8 @@ tags:
   - computer
   - DIY
 ---
+
+# Show References and Links
 * [https://pcpartpicker.com](https://pcpartpicker.com/)
 
 * <https://www.reddit.com/r/pcmasterrace/>
