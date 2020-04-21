@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Episode 3 - Cryptography (Part 1)
+title: Episode 3 - Cryptography
 date: 2020-04-21T16:37:25.778Z
 podcast: >-
   <iframe width="100%" height="300" scrolling="no" frameborder="no"
