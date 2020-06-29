@@ -38,7 +38,7 @@ const TemplateWrapper = ({ children }) => {
           href={`${withPrefix('/')}img/safari-pinned-tab.svg`}
           color="#ff4400"
         />
-        <link type="application/rss+xml" rel="alternate" title="NickNackNerd" href="http://feeds.soundcloud.com/users/soundcloud:users:760356469/sounds.rss" />
+        <link type="application/rss+xml" rel="alternate" title="NickNackNerd" href="https://anchor.fm/s/28dd87f4/podcast/rss" />
         <meta name="theme-color" content="#fff" />
 
         <meta property="og:type" content="business.business" />
