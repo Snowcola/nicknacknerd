@@ -3,9 +3,7 @@ templateKey: blog-post
 title: Episode 1 - Robots
 date: 2020-01-30T06:00:00.000Z
 podcast: >-
-  <iframe width="100%" height="166" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/751916545&color=%2392c9ae&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+  <iframe src="https://anchor.fm/nicknacknerd/embed/episodes/EP-1---Robots-eg2ga6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 description: >-
   Our first episode and it's all about robots. Greg and Anto talk about
   Disneyland animatronics, Battlestar Galactica, Alan Turing, Boston Dynamics,

@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Episode 4 - Unsolved Ciphers
 date: 2020-05-31T16:37:25.778Z
 podcast: >-
-  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/830915047&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+  <iframe src="https://anchor.fm/nicknacknerd/embed/episodes/EP-4---Unsolved-Ciphers-eg2ga9" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 description: >-
   Greg and Anthony explore their favourite unsolved ciphers.
 featuredpost: true

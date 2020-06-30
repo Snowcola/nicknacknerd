@@ -3,9 +3,7 @@ templateKey: blog-post
 title: Episode 3 - Cryptography
 date: 2020-04-21T16:37:25.778Z
 podcast: >-
-  <iframe width="100%" height="300" scrolling="no" frameborder="no"
-  allow="autoplay"
-  src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/802481065&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+  <iframe src="https://anchor.fm/nicknacknerd/embed/episodes/EP-3---Cryptography-eg2gaa" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 description: >-
   History of code making and code breaking, languages, pen and paper cyphers,
   WWII enigma, modern cryptography, RSA, PGP and passwords

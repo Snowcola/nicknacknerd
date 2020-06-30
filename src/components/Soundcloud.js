@@ -6,7 +6,9 @@ const SoundCloudEmbed = ({ podcast }) => {
 
 
     if (podcast && podcast.length) {
-        const url = podcast.split("src=")[1].split("></")[0].replace(/"/g, '')
+        //const url = podcast.split("src=")[1].split("></")[0].replace(/"/g, '')
+        const url = podcast.split("src=")[1].split(" ")[0].replace(/"/g, '')
+
         return (
             <div>
 
@@ -15,6 +17,7 @@ const SoundCloudEmbed = ({ podcast }) => {
                     scrolling="no"
                     frameborder="no"
                     allow="autoplay"
+                    title="podcast-embed"
                     src={url}>
 
                 </iframe>
