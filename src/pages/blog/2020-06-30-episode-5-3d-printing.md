@@ -9,6 +9,7 @@ podcast: >-
 description: >-
   Anthony takes Greg through a quick and dirty explanation of 3D printing and
   how to get started.
+featuredpost: true
 featuredimage: /img/3dprinting.png
 tags:
   - 3D
