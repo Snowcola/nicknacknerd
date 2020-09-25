@@ -11,6 +11,7 @@ description: >-
   engineers, how you can use it for your personal or company projects, some
   interesting modern uses of AI, and societal and ethical implications of the
   technology.
+featuredpost: true
 featuredimage: /img/sb-blog-ai-ml-resources.webp
 tags:
   - AI
