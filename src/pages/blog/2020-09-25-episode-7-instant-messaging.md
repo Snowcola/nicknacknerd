@@ -11,6 +11,7 @@ description: >-
   the advent of instant messaging from IRC and chat rooms all the way to the
   modern messaging apps we take for granted today for instant communication.
   What a time it was to grow up in the 90s.
+featuredpost: true
 featuredimage: /img/msnmessenger.jpg
 tags:
   - Instant Messaging
