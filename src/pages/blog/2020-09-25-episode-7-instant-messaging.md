@@ -21,7 +21,7 @@ tags:
 ---
 ![msn Messenger](/img/msnmessenger.jpg "msn Messenger")
 
-In this podcast we explore the origins and evolution of msn Messenger.
+In this podcast we explore the origins and evolution of instant messengers.
 
 * Early messengers:
 
