@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Episode 6 - How AI Works
-date: 2020-09-25T02:16:06.510Z
+date: 2020-07-29T02:16:06.510Z
 podcast: >-
   <iframe
   src="https://anchor.fm/nicknacknerd/embed/episodes/EP-6---How-AI-Works-ehc7a3"
