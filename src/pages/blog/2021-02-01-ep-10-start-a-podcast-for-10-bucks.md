@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: EP 10 - Start a Podcast For 10 Bucks
-date: 2021-02-01T06:25:10.296Z
+title: Episode 10 - Start a Podcast For 10 Bucks
+date: 2021-01-12T06:25:10.296Z
 podcast: >-
   <iframe
   src="https://anchor.fm/nicknacknerd/embed/episodes/EP-10---Start-a-Podcast-For-10-Bucks-eororp"
